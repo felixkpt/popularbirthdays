@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/fabpot/goutte" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/composer" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/paragonie/random_compat" />
+    </include_path>
+  </component>
+</project>

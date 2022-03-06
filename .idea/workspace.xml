@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70a1314a-851e-42cf-ae86-5bcf8ebc35b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/fabpot_goutte/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/fabpot/goutte" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/composer" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/fabpot_goutte/vendor/paragonie/random_compat" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1lBwjaTnFcUVFKJWnGBk5iVrxPK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../alliance" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70a1314a-851e-42cf-ae86-5bcf8ebc35b1" name="Default Changelist" comment="" />
+      <created>1607083928220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607083928220</updated>
+      <workItem from="1607083929267" duration="622000" />
+      <workItem from="1607086922638" duration="4886000" />
+      <workItem from="1607097811972" duration="124000" />
+      <workItem from="1607099025518" duration="100000" />
+      <workItem from="1607102340745" duration="3778000" />
+      <workItem from="1607126999381" duration="5073000" />
+      <workItem from="1607151397624" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1607151483496">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607151483496" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1607145062897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1607145062897" />
+  </component>
+</project>
